@@ -45,3 +45,4 @@ Az alkalmazás egy 3D-s gyűjtögetős játék, ahol a játékos egy téglalap a
 ## Github Link
 
 A teljes alkalmazás elérhető az alábbi linken:
+https://github.com/varga22/my_collect_game
